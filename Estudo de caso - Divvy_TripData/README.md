@@ -14,6 +14,6 @@
    1. **Estudo_Caso_Divvy.html:** relatório em HTML, retirado do notebook utilizado.
    2. **Estudo_Caso_Notebook.ipynb:** arquivo notebook do código python, com explicação passo a passo do desenvolvimento.
    
-Dentro do relatório, há o link para acessar o dashboar desenvolvido para o projeto. O arquivo pbix também será compartilhado, porém, devido ao seu tamanho, não é possível compartilhá-lo aqui
+Dentro do relatório, há o link para acessar o dashboard desenvolvido para o projeto. O arquivo pbix também será compartilhado, porém, devido ao seu tamanho, não é possível compartilhá-lo aqui.
 
 Link para acesso ao arquivo .pbix (Power BI): https://drive.google.com/file/d/1eM6HHACm8KR4qEL06UcXGgFOOuZAgsZx/view?usp=sharing
