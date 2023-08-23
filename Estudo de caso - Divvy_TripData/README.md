@@ -8,7 +8,9 @@
  *  Análise Exploratória:
    > etapa de obtenção dos conhecimentos acerca dos dados. Aqui ainda foram feitos alguns ajustes no conjunto de dados e criação de novas colunas.
  * Perguntas de Negócio:
-   > As perguntas de negócio foram respondidas, considerando os insights obtidos com as análsies feitas.   
+   > As perguntas de negócio foram respondidas, considerando os insights obtidos com as análsies feitas.
+ * Perguntas de Negócio:
+   > As perguntas de negócio foram respondidas, considerando os insights obtidos com as análsies feitas.  
  
  Esse estudo de caso contém os seguintes arquivos:
    1. **cyclistic.R:** código R da manipulação e análise inicial dos dados.
