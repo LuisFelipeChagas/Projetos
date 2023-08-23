@@ -6,7 +6,7 @@
  * Processamento dos dados:
    > etapa em que houve a mescla dos conjuntos de dados, a exclusão de colunas desnecessárias para a análise, além do tratamento dos dados.
  *  Análise Exploratória:
-    > etapa de obtenção dos conhecimentos acerca dos dados. Aqui ainda foram feitos alguns ajustes no conjunto de dados e criação de novas colunas.
+   > etapa de obtenção dos conhecimentos acerca dos dados. Aqui ainda foram feitos alguns ajustes no conjunto de dados e criação de novas colunas.
  * Perguntas de Negócio:
    > As perguntas de negócio foram respondidas, considerando os insights obtidos com as análsies feitas.   
  
